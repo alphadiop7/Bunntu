@@ -3,7 +3,7 @@
 $server = "localhost";
 $user = "root";
 $pass = "";
-$database = "authentification_form";
+$database = "bunntu_db";
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 
